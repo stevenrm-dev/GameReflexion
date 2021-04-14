@@ -1,0 +1,31 @@
+.login-action-login, .wp-core-ui .button-primary, .wp-core-ui .button-primary:active {
+    background: #96D4CE;
+    border: none;
+}
+
+#login h1 a {
+    background-image: url(../img/gamereflexion.svg);
+}
+
+#login .message {
+    display: none;
+}
+
+.login form {
+    border: none;
+    box-shadow: none;
+    border-radius: 10px;
+}
+
+.dashicons, .wp-core-ui .button-primary:hover {
+    color: #96D4CE;
+}
+
+.wp-core-ui .button-primary:hover {
+    background: transparent;
+    border: .1rem solid #96D4CE;
+}
+
+.login #nav a, .login #nav a:hover, .login #nav a:active, .login #backtoblog a, .login #backtoblog a:hover, .login #backtoblog a:active {
+    color: #fff;
+}
